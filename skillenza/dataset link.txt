@@ -1,0 +1,4 @@
+The dataset of handwritten hindi characters was taken from the UCI Machine Learning repository.
+Image Format: .png
+Resolution: 32 by 32
+https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset
